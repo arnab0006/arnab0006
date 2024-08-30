@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnab0006
 - 👀 I’m interested in ...coding and solving problems
-- 🌱 I’m currently learning ...python #print(go on)
+- 🌱 I’m currently learning ...c #printf(go on)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
